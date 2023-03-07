@@ -1,0 +1,20 @@
+[{
+    "id": "1",
+    "firstName": "Aaron",
+    "lastName": "Hayslip",
+    "emailAddress": "aaron@projectshift.io",
+    "acceptedGoals": [],
+    "achievedGoals": [],
+    "challengedGoals": [],
+    "giftedGoals": []
+},
+{
+    "id": "2",
+    "firstName": "Brett",
+    "lastName": "Colyer",
+    "emailAddress": "brett@projectshift.io",
+    "acceptedGoals": [],
+    "achievedGoals": [],
+    "challengedGoals": [],
+    "giftedGoals": []
+}]
